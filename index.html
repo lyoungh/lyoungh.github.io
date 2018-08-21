@@ -1,5 +1,8 @@
 ---
 layout: home-page
+pagination:
+    enabled: true
+    per_page: 6
 ---
 <ol class="post-card-box clearfix">
   {% for post in paginator.posts %}
@@ -9,6 +12,7 @@ layout: home-page
       </a>
 
       <div class="post-card-body">
+          <p class="post-meta" style="color: #ffc">{{ post.date | date: "%b %d, %Y" }}</p>
         {% for tag in post.tags %}
         <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
         {% endfor %}

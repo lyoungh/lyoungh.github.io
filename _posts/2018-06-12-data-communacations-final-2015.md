@@ -3,12 +3,12 @@ layout: post
 title: 데이터 통신 2015 - 기말
 date: 2018-06-12 +0300
 img: learn.jpg
-tags: [데이터통신, 기말, 2015]
+category: data_communication
+tags: [데이터통신, CSMA]
 ---
 
-
 ## 1. 다음 용어에 관하여, 최대한 알기 쉽고 자세하게 기술하라.
-### 가) FCS :
+### 가) FCS :
 데이터를 전송할 때 에러를 검출하기 위한 방법 중 CRC 기법이 있는데, 보낼 k개의 데이터 블럭 비트 뒤에 k 데이터 블럭과 Gernerate divisor 비트 값으로 나눠 만들어지는 FCS(Frame Check Sequence)라는 에러 검사를 위한 r개의 비트를 붙인다. 그래서 총 보내는 데이터는 k + r이 된다.<br/>
 <br/>
 ### 나) PAP   in PPP:
@@ -41,13 +41,12 @@ _ _ _
 
 ## 3. Imgae that PC1 sends an Ethernet frame to PC2, but PC3 and PC4 also get a copy of the frame. How does PC3 know to ignore the data in the frame?
 
-_ _ _
-
 ethernet FramePC1이 보내는 프레임을 PC2, PC3, PC4가 브로드캐스트로 모두 받게된다.
 PC1이 보낸 프레임에는 Destination address가 적혀있는데, 누구한테 이 프레임이 전달되어야하는지를 알려준다.
 PC2, PC3, PC4는 PC1의 프레임을 받으면 먼저 Destination address를 검사해 자신의 MAC 과 Destination address가 맞는지 확인하고 다르다면 프레임을 모두 폐기한다.
 
-<br/>
+_ _ _
+
 <br/>
 
 ## 4. IEEE 802.11 wireless LAN에서 CSMA/CA 기반의 DCF 모드에서 멀티미디어 데이터를 실시간으로 전송할 때의 문제점에 관하여 알기 쉽고 자세하게 기술하라.
