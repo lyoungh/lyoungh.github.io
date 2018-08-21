@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ef3487-f43e-4998-9c82-86f84bcc2a87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-12-CSMA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-12-csma.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-12-csma.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-12-csma.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-12-data-communacations-final-2015.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-12-data-communacations-final-2015.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -154,11 +154,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-csma.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-csma.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <first_editor relative-caret-position="475">
+                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -312,6 +312,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
@@ -346,12 +347,12 @@
       <workItem from="1534776268274" duration="850000" />
       <workItem from="1534777152845" duration="1000" />
       <workItem from="1534827563670" duration="3102000" />
-      <workItem from="1534852628353" duration="8006000" />
+      <workItem from="1534852628353" duration="8250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12005000" />
+    <option name="totallyTimeSpent" value="12249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -440,7 +441,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-data-communacations-final-2015.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-data-communacations-final-2015.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="125">
@@ -581,11 +582,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-csma.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-csma.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <first_editor relative-caret-position="475">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           </first_editor>
           <second_editor />
         </state>
