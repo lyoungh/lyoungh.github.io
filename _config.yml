@@ -36,7 +36,7 @@ analytics: # Google Analytics
 # Paginate
 pagination:
   enabled: true
-  per_page: 2
+  per_page: 6
   limit: 0
   sort_field: "date"
   sort_reverse: true
